@@ -1,0 +1,2 @@
+Nice job. You don't have a proper folder structure though.
+You could just add the js, css and images to an asset folder. Nonetheless your js code was neatly implemented
